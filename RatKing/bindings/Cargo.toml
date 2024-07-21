@@ -9,7 +9,7 @@ opt-level = 3
 debug = 0
 
 [dependencies]
-windows = "0.19"
+windows = "0.58"
 
 [build-dependencies]
-windows = "0.19"
+windows = "0.58"
